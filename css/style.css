@@ -103,3 +103,9 @@ li {
     background-position-x: -300px;
     background-position-y: -300px;
 }
+.game-text{
+    position: absolute;
+    font-size: 45px;
+    color: #ccc;
+    display: none;
+}
